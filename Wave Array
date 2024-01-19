@@ -1,4 +1,3 @@
-#Geeks for Geeks
 
 i, j = 0, 1
 while j<len(arr):
