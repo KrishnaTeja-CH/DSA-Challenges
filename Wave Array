@@ -1,0 +1,11 @@
+#Geeks for Geeks
+
+i, j = 0, 1
+while j<len(arr):
+   arr[i], arr[j] = arr[j], arr[i]
+    i += 2
+    j += 2
+return arr
+
+Space: O(1)
+Time: O(n)
