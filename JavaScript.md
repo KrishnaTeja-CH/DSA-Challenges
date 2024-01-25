@@ -1,0 +1,8 @@
+1. [You-Don't-Know-JS](https://lnkd.in/dM8dSp_P)
+2. [WTF Js](https://lnkd.in/dxVXFt6X)
+3. [JavaScript algorithms](https://lnkd.in/d8jrTfYE)
+4. [Clean code javascript](https://lnkd.in/d9uYGPAC)
+5. [Javascript Questions](https://lnkd.in/d2cUgyF4)
+6. [ES6 for humans](https://lnkd.in/dwa86-EP)
+7. [Javascript 30](https://lnkd.in/dFfwDKsm)
+8. [js stack from scratch](https://lnkd.in/d2Af944B)
