@@ -1,0 +1,58 @@
+1. How will you improve the performance of a program in Python?
+2. What are the benefits of using Python?
+3. How will you specify source code encoding in a Python source file?
+4. What is the use of PEP 8 in Python?
+5. What is Pickling in Python?
+6. How does memory management work in Python?
+7. How will you perform Static Analysis on a Python Script?
+8. What is the difference between a Tuple and List in Python?
+9. What is a Python Decorator?
+10. How are arguments passed in a Python method? By value or by
+reference?
+11. What is the difference between List and Dictionary data types in
+Python?
+12. What are the different built-in data types available in Python?
+13. What is a Namespace in Python?
+14. How will you concatenate multiple strings together in Python?
+15. What is the use of Pass statement in Python?
+16. What is the use of Slicing in Python?
+17. What is the difference between Docstring in Python and Javadoc in
+Java?
+18. How do you perform unit testing for Python code?
+19. What is the difference between an Iterator and Iterable in Python?
+20. What is the use of Generator in Python?
+21. What is the significance of functions that start and end with _
+symbol in Python?
+22. What is the difference between xrange and range in Python?
+23. What is lambda expression in Python?
+24. How will you copy an object in Python?
+25. What are the main benefits of using Python?
+26. What is a metaclass in Python?
+27. What is the use of frozenset in Python?
+28. What is Python Flask?
+29. What is None in Python?
+30. What is the use of zip() function in Python?
+31. What is the use of // operator in Python?
+32. What is a Module in Python?
+33. How can we create a dictionary with ordered set of keys in Python?
+34. Python is an Object Oriented programming language or a
+functional programming language?
+35. How can we retrieve data from a MySQL database in a Python
+script?
+36. What is the difference between append() and extend() functions of a
+list in Python?
+37. How will you handle an error condition in Python code?
+38. What is the difference between split() and slicing in Python?
+39. How will you check in Python, if a class is subclass of another class?
+40. How will you debug a piece of code in Python?
+41. How do you profile a Python script?
+42. What is the difference between ‘is’ and ‘==’ in Python?
+43. How will you share variables across modules in Python?
+44. How can we do Functional programming in Python?
+45. What is the improvement in enumerate() function of Python?
+46. How will you execute a Python script in Unix?
+47. What are the popular Python libraries used in Data analysis?
+48. What is the output of following code in Python?
+49. What is the output of following code in Python?
+50. If you have data with name of customers and their location, which
+data type will you use to store it in Python?
