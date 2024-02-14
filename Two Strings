@@ -1,0 +1,7 @@
+def twoStrings(s1, s2):
+    s11 = set(s1)
+    s22 = set(s2)
+    
+    if s11.intersection(s22):
+        return 'YES'
+    return 'NO'
